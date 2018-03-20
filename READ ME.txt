@@ -1,0 +1,9 @@
+DEMO WEBSITE BY GUY RESHEF
+
+Functions:
+-responsive
+-slider
+-toggle form
+-submit form
+-reset form
+-send mail to demo@demo.com ( console.log action)
